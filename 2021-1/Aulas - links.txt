@@ -1,0 +1,23 @@
+Aulas - links
+00 Welcome (LIVE 19/05 @ 09:25) - https://youtu.be/Eb1lhWTkV1g
+01 Introduction - https://youtu.be/ht6WTjH6SXI
+02 Characterization - https://youtu.be/MuUqbixeAi8
+03 Non-Personalized Collaborative Filtering - https://youtu.be/axk9RuZvUvo
+04 User-Based Collaborative Filtering - https://youtu.be/NpzGAeHDQiY
+05 Item-Based Collaborative Filtering - https://youtu.be/2xffSjkSjiY
+06 Evaluation Methods - https://youtu.be/i7b-dHOTCiU
+07 Evaluation Metrics - https://youtu.be/Oj5dqumjSVQ
+08 Matrix Factorization - https://youtu.be/4YiJP__6f9Q
+09 Restricted Boltzmann Machines - https://youtu.be/NDRhv2C5QQc
+10 Project Feedback Sessions (LIVE 16/06 @ 09:25) - 
+12 Content-based Recommendation - https://youtu.be/M6zMgMthxjo
+13 Similarity-based Recommendation - https://youtu.be/ojnVVnNiudg
+14 Topic Modeling - https://youtu.be/BDeZXPUwmQ0
+17 Diversity and Novelty - https://youtu.be/bR0U8xkGLUE
+18 Constraint-based Recommendation - https://youtu.be/n1gThfmF5bE
+19 Case-based Recommendation - https://youtu.be/DVE5ulrzDQM
+20 Explanations - https://youtu.be/TXUQnqeWtGs
+21 Hybridization - https://youtu.be/vP4DrIqT4cU
+22 Context-aware Recommendation - https://youtu.be/SR13547d0fI
+23 Learning to Rank - https://youtu.be/8JUG79-b0Ck
+24 Factorization Machines - https://youtu.be/-0AzcsDC66s
